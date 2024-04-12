@@ -12,3 +12,5 @@
 ## resnet 18
 ![image](https://github.com/Manodeepray/transfer-learning-cheat-sheet/assets/127145195/7ce74728-036f-4ff2-8784-db46ebd2ccdc)
 
+## resnet 34 
+![image](https://github.com/Manodeepray/transfer-learning-cheat-sheet/assets/127145195/db44417b-6c00-4be4-9dca-57e61e17c1a9)
