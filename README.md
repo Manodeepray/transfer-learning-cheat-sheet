@@ -1,3 +1,3 @@
 # transfer-learning-cheat-sheet
  
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FVGG-19-Architecture-39-VGG-19-has-16-convolution-layers-grouped-into-5-blocks-After_fig5_359771670&psig=AOvVaw1sQu7P687cSUVJMXsDsSp6&ust=1713016489484000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMD1p-3pvIUDFQAAAAAdAAAAABAE
+![vgg 19](https://www.researchgate.net/publication/359771670/figure/fig5/AS:11431281079634597@1660789329088/VGG-19-Architecture-39-VGG-19-has-16-convolution-layers-grouped-into-5-blocks-After.png)
